@@ -2,7 +2,7 @@
 
 <img align="right" width="159px" src="https://raw.githubusercontent.com/Team-MoonMC/ProtoHax/stable/icon.png">
 
-ProtoHax-Android is the Android implementation of [ProtoHax](https://github.com/Team-MoonMC/ProtoHax), an open-source cheat for Minecraft: Bedrock Edition that works through the network layer. This repository contains the Android-specific code for the cheat.
+ProtoHax-Android is the Android implementation of [ProtoHax](https://github.com/RadiantCraft/ProtoHax), an open-source cheat for Minecraft: Bedrock Edition that works through the network layer. This repository contains the Android-specific code for the cheat.
 ## Features
 1. No modifications to Minecraft client
 2. Seamless switching/adapting multiple versions
@@ -31,7 +31,7 @@ For those who are unfamiliar with the license, here is a summary of its main poi
 - **Your modified application must also be licensed under the GPL**
 
 ## Installation
-We have used the [local maven repository](https://docs.gradle.org/current/userguide/declaring_repositories.html#sec:case-for-maven-local), you need to build and publish [ProtoHax](https://github.com/MoonLife-Studio/ProtoHax) to the repository before you can build, sorry for inconvenience.
+We have used the [local maven repository](https://docs.gradle.org/current/userguide/declaring_repositories.html#sec:case-for-maven-local), you need to build and publish [ProtoHax](https://github.com/RadiantCraft/ProtoHax) to the repository before you can build, sorry for inconvenience.
 
 ### With Android Studio
 1. Clone the repository: `git clone https://github.com/Team-MoonMC/ProtoHax-Android.git`
