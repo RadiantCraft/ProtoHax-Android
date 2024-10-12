@@ -34,13 +34,13 @@ For those who are unfamiliar with the license, here is a summary of its main poi
 We have used the [local maven repository](https://docs.gradle.org/current/userguide/declaring_repositories.html#sec:case-for-maven-local), you need to build and publish [ProtoHax](https://github.com/RadiantCraft/ProtoHax) to the repository before you can build, sorry for inconvenience.
 
 ### With Android Studio
-1. Clone the repository: `git clone https://github.com/Team-MoonMC/ProtoHax-Android.git`
+1. Clone the repository: `git clone https://github.com/RadiantCraft/ProtoHax-Android.git`
 2. Import the project into Android Studio
 3. Connect your Android device to your computer
 4. Build and run the project on your device
 
 ### With Gradle
-1. Clone the repository: `git clone https://github.com/Team-MoonMC/ProtoHax-Android.git`
+1. Clone the repository: `git clone https://github.com/RadiantCraft/ProtoHax-Android.git`
 2. CD into the local repository.
 3. Connect your Android device to your computer
 3. Run `gradlew app:assembleDebug`
