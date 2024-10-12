@@ -9,8 +9,8 @@ ProtoHax-Android is the Android implementation of [ProtoHax](https://github.com/
 3. Full control of the packet layer
 
 ## Issues
-- If you notice any bugs or missing features in the Android-specific code, you can let us know by opening an issue [here](https://github.com/Team-MoonMC/ProtoHax-Android/issues).
-- If you're having issues with the cheat features themselves, please send the issue to the main repository [here](https://github.com/Team-MoonMC/ProtoHax/issues).
+- If you notice any bugs or missing features in the Android-specific code, you can let us know by opening an issue [here](https://github.com/RadiantCraft/ProtoHax-Android/issues).
+- If you're having issues with the cheat features themselves, please send the issue to the main repository [here](https://github.com/RadiantCraft/ProtoHax/issues).
 
 Please notice that this is an **English-only** repository, so all issues and pull requests must be in English, if you can't speak English, please use a [translator](https://translate.google.com/).
 
